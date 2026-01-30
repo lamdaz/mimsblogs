@@ -166,18 +166,8 @@ export default function Home() {
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="font-heading text-2xl font-bold md:text-3xl">
               Thanks for Reading!
-            </h2>
-            <p className="mt-4 text-muted-foreground">
-              If you enjoyed the articles, feel free to explore more or connect with me on GitHub.
-            </p>
-            <a 
-              href="https://github.com/ragibcs" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="mt-6 inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground shadow-lg transition-all hover:shadow-xl hover:scale-105"
-            >
-              Follow on GitHub
-            </a>
+           </h2>
+
           </div>
         </div>
       </section>
